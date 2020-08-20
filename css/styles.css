@@ -57,7 +57,7 @@ body {
   min-height: 300px;
 }
 #carousalBottons {
-  right: 0px;
+  right: 48.7%;
   position: absolute;
-  bottom: 0px;
+  top: 0px;
 }
